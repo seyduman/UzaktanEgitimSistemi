@@ -1,5 +1,5 @@
-# pg1926-odevler
-pg1926 tüm odevler
+# Uzaktan-Egitim-Sistemi
+
 
 UZAKTAN EĞİTİM SİSTEMİ, projemiz adıyla yer almaktadır.
 projemiz adıyla yer alan sql uzantılı veritabanı da mevcuttur.
